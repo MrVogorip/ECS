@@ -1,0 +1,14 @@
+{
+  "name": "com.mrvogorip.ecs",
+  "version": "1.0.0",
+  "displayName": "ECS",
+  "description": "Entity component system package",
+  "author": "MrVogorip",
+  "keywords": [
+    "ecs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrVogorip/ECS.git"
+  }
+}
